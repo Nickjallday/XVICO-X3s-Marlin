@@ -1,4 +1,7 @@
-全部都是创客基地的界面没有我们的界面
+This is a Community Made firmware that will compile for the XVICO X3s (MKS_ROBIN_NANO Clone).
 
-1.0 没有配置文件
-1.1 更改打印机范围为220  220 250 没有配置文件
+Place the xvico.bin on the SD card insert it into the printer and re boot.
+
+xvico.bin located in: /.pio/build/mks_robin_nano35/
+
+To edit the configuration down the master, and open with VSCode Platformio plugin.
