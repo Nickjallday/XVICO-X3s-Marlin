@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "XVICO_FDM_1.0.5",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"system_error": "cpp",
+			"fstream": "cpp",
+			"thread": "c",
+			"cstdlib": "c",
+			"memory": "c",
+			"random": "cpp",
+			"sstream": "cpp",
+			"cstdio": "c",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"atomic": "cpp"
+		}
+	}
+}
