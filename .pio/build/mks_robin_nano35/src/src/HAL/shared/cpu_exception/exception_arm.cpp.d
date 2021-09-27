@@ -9,18 +9,18 @@
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/platforms.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/macros.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/boards.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\configuration.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\version.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\configuration.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\version.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/Version.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/Conditionals_LCD.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/drivers.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\configuration_adv.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\configuration_adv.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/Conditionals_adv.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/HAL.h \
- Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/./STM32F1/HAL.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\hal\shared\marduino.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\stm32f1\hal.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\marduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/wirish.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/WString.h \
@@ -71,19 +71,19 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/tone.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\variants\generic_stm32f103v/variant.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\hal\shared\progmem.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\hal\shared\math_32bit.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\hal\shared\hal_spi.h \
- Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/./STM32F1/fastio.h \
- Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/./STM32F1/watchdog.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\progmem.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\math_32bit.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\hal_spi.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\stm32f1\fastio.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\stm32f1\watchdog.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/iwdg.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/util/atomic.h \
- Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/./STM32F1/MarlinSerial.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\stm32f1\MarlinSerial.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_hook.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_base.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_hook.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_base.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../pins/pins.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../pins/stm32f1/pins_MKS_ROBIN_NANO.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../pins/pins_postprocess.h \
@@ -96,9 +96,9 @@
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/STM32F1/inc/SanityCheck.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/language.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/multi_language.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\lcd\language\language_en.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\lcd\language\language_en.h \
  Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/utility.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\millis_t.h
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\millis_t.h
 
 Marlin\src\HAL\shared\cpu_exception\exception_hook.h:
 
@@ -118,9 +118,9 @@ Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/macros.h:
 
 Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/boards.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\configuration.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\configuration.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\version.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\version.h:
 
 Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/Version.h:
 
@@ -130,7 +130,7 @@ Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/STM32F1/inc/Cond
 
 Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/drivers.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\configuration_adv.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\configuration_adv.h:
 
 Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/Conditionals_adv.h:
 
@@ -138,9 +138,9 @@ Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/STM32F1/inc/Cond
 
 Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/HAL.h:
 
-Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/./STM32F1/HAL.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\stm32f1\hal.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\hal\shared\marduino.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\marduino.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h:
 
@@ -242,21 +242,21 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\variants\generic_stm32f103v/variant.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\hal\shared\progmem.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\progmem.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\hal\shared\math_32bit.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\math_32bit.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\hal\shared\hal_spi.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\hal_spi.h:
 
-Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/./STM32F1/fastio.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\stm32f1\fastio.h:
 
-Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/./STM32F1/watchdog.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\stm32f1\watchdog.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/iwdg.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/util/atomic.h:
 
-Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../HAL/./STM32F1/MarlinSerial.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\stm32f1\MarlinSerial.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/usart.h:
 
@@ -264,9 +264,9 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_hook.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_hook.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_base.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_base.h:
 
 Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../pins/pins.h:
 
@@ -292,8 +292,8 @@ Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/language.h:
 
 Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/multi_language.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\lcd\language\language_en.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\lcd\language\language_en.h:
 
 Marlin\src\HAL\shared\cpu_exception\../../../core/../inc/../core/utility.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\millis_t.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\millis_t.h:

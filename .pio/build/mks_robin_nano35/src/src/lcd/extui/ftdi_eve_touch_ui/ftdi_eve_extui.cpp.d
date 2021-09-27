@@ -4,13 +4,13 @@
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../HAL/platforms.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../core/macros.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../core/boards.h \
- Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../../Configuration.h \
- Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../../Version.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\configuration.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\version.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/Version.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/Conditionals_LCD.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../core/drivers.h \
- Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../../Configuration_adv.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\configuration_adv.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/Conditionals_adv.h \
  Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h
 
@@ -22,9 +22,9 @@ Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../core/macros.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../core/boards.h:
 
-Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../../Configuration.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\configuration.h:
 
-Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../../Version.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\version.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/Version.h:
 
@@ -34,7 +34,7 @@ Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../HAL/STM32F1/inc/Condition
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../core/drivers.h:
 
-Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/../../Configuration_adv.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\configuration_adv.h:
 
 Marlin\src\lcd\extui\ftdi_eve_touch_ui\../../../inc/Conditionals_adv.h:
 

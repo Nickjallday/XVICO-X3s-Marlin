@@ -16,7 +16,7 @@
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/HAL.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/HAL.h \
- Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/Marduino.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\marduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/wirish.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/WString.h \
@@ -67,9 +67,9 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/tone.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\variants\generic_stm32f103v/variant.h \
- Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/progmem.h \
- Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h \
- Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\progmem.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\math_32bit.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\hal_spi.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/fastio.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/watchdog.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/iwdg.h \
@@ -78,8 +78,8 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_hook.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_base.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_hook.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_base.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../pins/pins.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../pins/stm32f1/pins_MKS_ROBIN_NANO.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../pins/pins_postprocess.h \
@@ -115,15 +115,15 @@
  Marlin\src\gcode\feature\powerloss\../../../lcd/../libs/circularqueue.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/tft_io/touch_calibration.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/tft_io/tft_io.h \
- Marlin\src\gcode\feature\powerloss\../../../lcd/tft_io/../../HAL/STM32F1/tft/tft_fsmc.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\stm32f1\tft\tft_fsmc.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/dma.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/dma.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/dma_common.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/../module/printcounter.h \
- Marlin\src\gcode\feature\powerloss\../../../lcd/../module/../libs/stopwatch.h \
- Marlin\src\gcode\feature\powerloss\../../../lcd/../module/../libs/duration_t.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\libs\stopwatch.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\libs\duration_t.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/pause.h \
- Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/../libs/nozzle.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\libs\nozzle.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/lcdprint.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/fontutils.h
 
@@ -159,7 +159,7 @@ Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/HAL.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/HAL.h:
 
-Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/Marduino.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\marduino.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\cores\maple/Arduino.h:
 
@@ -261,11 +261,11 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\variants\generic_stm32f103v/variant.h:
 
-Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/progmem.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\progmem.h:
 
-Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\math_32bit.h:
 
-Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\shared\hal_spi.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/fastio.h:
 
@@ -283,9 +283,9 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_hook.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_hook.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_base.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_base.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../pins/pins.h:
 
@@ -357,7 +357,7 @@ Marlin\src\gcode\feature\powerloss\../../../lcd/tft_io/touch_calibration.h:
 
 Marlin\src\gcode\feature\powerloss\../../../lcd/tft_io/tft_io.h:
 
-Marlin\src\gcode\feature\powerloss\../../../lcd/tft_io/../../HAL/STM32F1/tft/tft_fsmc.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\hal\stm32f1\tft\tft_fsmc.h:
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/dma.h:
 
@@ -367,13 +367,13 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 Marlin\src\gcode\feature\powerloss\../../../lcd/../module/printcounter.h:
 
-Marlin\src\gcode\feature\powerloss\../../../lcd/../module/../libs/stopwatch.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\libs\stopwatch.h:
 
-Marlin\src\gcode\feature\powerloss\../../../lcd/../module/../libs/duration_t.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\libs\duration_t.h:
 
 Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/pause.h:
 
-Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/../libs/nozzle.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\libs\nozzle.h:
 
 Marlin\src\gcode\feature\powerloss\../../../lcd/lcdprint.h:
 

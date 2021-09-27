@@ -78,8 +78,8 @@
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
  C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_hook.h \
- c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_base.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_hook.h \
+ c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_base.h \
  Marlin\src\gcode\feature\pause\../../../inc/../pins/pins.h \
  Marlin\src\gcode\feature\pause\../../../inc/../pins/stm32f1/pins_MKS_ROBIN_NANO.h \
  Marlin\src\gcode\feature\pause\../../../inc/../pins/pins_postprocess.h \
@@ -253,9 +253,9 @@ C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.20010
 
 C:\Users\Nicho\.platformio\packages\framework-arduinoststm32-maple@2.10000.200103\STM32F1\system\libmaple/stm32f1/include/series/usart.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_hook.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_hook.h:
 
-c:\users\nicho\desktop\ercreator\xvico\ marlin\ 2.0.9.1\marlin\src\core\serial_base.h:
+c:\users\nicho\documents\github\xvico\ x3s\ marlin\marlin\src\core\serial_base.h:
 
 Marlin\src\gcode\feature\pause\../../../inc/../pins/pins.h:
 
