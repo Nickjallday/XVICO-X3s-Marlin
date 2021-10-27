@@ -131,7 +131,10 @@
  Marlin\src\lcd\menu\../../module/planner.h \
  Marlin\src\lcd\menu\../../module/../MarlinCore.h \
  Marlin\src\lcd\menu\../../module/../feature/fwretract.h \
- Marlin\src\lcd\menu\../../gcode/parser.h
+ Marlin\src\lcd\menu\../../gcode/parser.h \
+ Marlin\src\lcd\menu\../../feature/runout.h \
+ Marlin\src\lcd\menu\../../feature/../module/stepper.h \
+ Marlin\src\lcd\menu\../../feature/../module/stepper/indirection.h
 
 Marlin\src\lcd\menu\../../inc/MarlinConfigPre.h:
 
@@ -402,3 +405,9 @@ Marlin\src\lcd\menu\../../module/../MarlinCore.h:
 Marlin\src\lcd\menu\../../module/../feature/fwretract.h:
 
 Marlin\src\lcd\menu\../../gcode/parser.h:
+
+Marlin\src\lcd\menu\../../feature/runout.h:
+
+Marlin\src\lcd\menu\../../feature/../module/stepper.h:
+
+Marlin\src\lcd\menu\../../feature/../module/stepper/indirection.h:

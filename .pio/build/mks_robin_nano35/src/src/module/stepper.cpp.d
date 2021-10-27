@@ -125,6 +125,7 @@
  Marlin\src\module\../lcd/../feature/../libs/nozzle.h \
  Marlin\src\module\../lcd/lcdprint.h Marlin\src\module\../lcd/fontutils.h \
  Marlin\src\module\../HAL/shared/Delay.h \
+ Marlin\src\module\../feature/runout.h \
  Marlin\src\module\../feature/powerloss.h \
  Marlin\src\module\../feature/../gcode/gcode.h \
  Marlin\src\module\../feature/../gcode/parser.h
@@ -390,6 +391,8 @@ Marlin\src\module\../lcd/lcdprint.h:
 Marlin\src\module\../lcd/fontutils.h:
 
 Marlin\src\module\../HAL/shared/Delay.h:
+
+Marlin\src\module\../feature/runout.h:
 
 Marlin\src\module\../feature/powerloss.h:
 
