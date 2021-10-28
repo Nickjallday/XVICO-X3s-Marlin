@@ -95,12 +95,7 @@
  Marlin\src\gcode\config\../../inc/../core/../lcd/language/language_en.h \
  Marlin\src\gcode\config\../../inc/../core/utility.h \
  Marlin\src\gcode\config\../../inc/../core/../core/millis_t.h \
- Marlin\src\gcode\config\../../inc/../core/serial.h \
- Marlin\src\gcode\config\../gcode.h Marlin\src\gcode\config\../parser.h \
- Marlin\src\gcode\config\../../module/temperature.h \
- Marlin\src\gcode\config\../../module/thermistor/thermistors.h \
- Marlin\src\gcode\config\../../module/thermistor/thermistor_1.h \
- Marlin\src\gcode\config\../../module/../libs/autoreport.h
+ Marlin\src\gcode\config\../../inc/../core/serial.h
 
 Marlin\src\gcode\config\../../inc/MarlinConfig.h:
 
@@ -293,15 +288,3 @@ Marlin\src\gcode\config\../../inc/../core/utility.h:
 Marlin\src\gcode\config\../../inc/../core/../core/millis_t.h:
 
 Marlin\src\gcode\config\../../inc/../core/serial.h:
-
-Marlin\src\gcode\config\../gcode.h:
-
-Marlin\src\gcode\config\../parser.h:
-
-Marlin\src\gcode\config\../../module/temperature.h:
-
-Marlin\src\gcode\config\../../module/thermistor/thermistors.h:
-
-Marlin\src\gcode\config\../../module/thermistor/thermistor_1.h:
-
-Marlin\src\gcode\config\../../module/../libs/autoreport.h:
