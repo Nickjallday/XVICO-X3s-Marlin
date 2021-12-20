@@ -19,7 +19,7 @@
             "svdPath": "C:/Users/Nicho/.platformio/platforms/ststm32@6.1.1/misc/svd/STM32F103xx.svd",
             "preLaunchTask": {
                 "type": "PlatformIO",
-                "task": "Pre-Debug (mks_robin_nano35)"
+                "task": "Pre-Debug"
             }
         },
         {
