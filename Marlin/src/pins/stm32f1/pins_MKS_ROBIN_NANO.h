@@ -69,6 +69,12 @@
 #define Z_MIN_PIN                           PA11
 #define Z_MAX_PIN                           PC4
 
+#if ENABLED(BLTOUCH) && DISABLED(Z_MULTI_ENDSTOPS)
+  #undef Z_MAX_PIN 
+
+  #define BLTOUCH_PROBE_PIN                 PC4
+
+#endif
 //
 // Steppers
 //
@@ -91,6 +97,17 @@
 #define E1_ENABLE_PIN                       PA3
 #define E1_STEP_PIN                         PA6
 #define E1_DIR_PIN                          PA1
+
+#if HOTENDS == 1 && DISABLED(HEATERS_PARALLEL) && NUM_Z_STEPPER_DRIVERS > 1
+  #undef E1_ENABLE_PIN
+  #undef E1_STEP_PIN 
+  #undef E1_DIR_PIN
+
+  #define Z2_ENABLE_PIN                       PA3
+  #define Z2_STEP_PIN                         PA6
+  #define Z2_DIR_PIN                          PA1
+
+#endif
 
 //
 // Temperature Sensors
