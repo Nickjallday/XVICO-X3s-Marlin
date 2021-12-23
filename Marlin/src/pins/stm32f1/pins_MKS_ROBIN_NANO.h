@@ -69,12 +69,6 @@
 #define Z_MIN_PIN                           PA11
 #define Z_MAX_PIN                           PC4
 
-#if ENABLED(BLTOUCH) && DISABLED(Z_MULTI_ENDSTOPS)
-  #undef Z_MAX_PIN 
-
-  #define BLTOUCH_PROBE_PIN                 PC4
-
-#endif
 //
 // Steppers
 //
