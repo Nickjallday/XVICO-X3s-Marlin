@@ -21,7 +21,7 @@
                 "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/LiquidTWI2",
                 "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/Adafruit_MAX31865",
                 "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/U8glib-HAL_ID1932/src",
-                "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/TMCStepper_ID5513/src",
+                "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/TMCStepper/src",
                 "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/SoftwareSerialM",
                 "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/LiquidCrystal",
                 "C:/Users/Nicho/.platformio/packages/framework-arduinoststm32-maple@2.10000.200103/STM32F1/libraries/Wire",
@@ -81,7 +81,7 @@
                     "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/LiquidTWI2",
                     "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/Adafruit_MAX31865",
                     "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/U8glib-HAL_ID1932/src",
-                    "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/TMCStepper_ID5513/src",
+                    "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/TMCStepper/src",
                     "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/SoftwareSerialM",
                     "c:/Users/Nicho/Documents/GitHub/XVICO X3s Marlin/.pio/libdeps/mks_robin_nano35/LiquidCrystal",
                     "C:/Users/Nicho/.platformio/packages/framework-arduinoststm32-maple@2.10000.200103/STM32F1/libraries/Wire",
@@ -127,7 +127,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=50204",
+                "PLATFORMIO=50205",
                 "STM32F103xE",
                 "STM32F1",
                 "TARGET_STM32F1",
